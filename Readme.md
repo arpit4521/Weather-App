@@ -43,11 +43,6 @@ Contributions Welcome:
 Encourages developers to contribute to the project.
 Provides guidelines for submitting issues, feature requests, and pull requests.
 
-License
-License Information:
-Clearly states the license under which the project is distributed.
-Includes a link to the full text of the license.
-
 Acknowledgements
 APIs Used:
 Acknowledges the weather API used to fetch weather data.
